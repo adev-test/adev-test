@@ -5,7 +5,7 @@
 */
 var button_stats = new function() {	
 
-	this.trigger_url = DEDALO_LIB_BASE_URL + '/button_stats/trigger.button_stats.php';
+	this.trigger_url = DEDALO_LIB_BASE_URL + '/button_stats/trigger.button_stats.php'; //va de nuevas..
 
 	
 	// Stats
