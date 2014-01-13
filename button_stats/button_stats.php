@@ -1,1 +1,1 @@
-	# CONTROLLER
+	# CONTROLLER	$tipo 					= $this->get_tipo();			
